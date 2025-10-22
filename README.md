@@ -4,10 +4,12 @@ Screen for MyDU Item Dispensers
 Link a screen to the programming board and continue.  
 Can also attach lights as well, will turn green if it contains items or red if empty.  
 
-**Requirements**
-Programming Board
-At leats one screen
-Can add lights and databank
+**Requirements**  
+1 Programming Board  
+At least 1 screen  
+Can add multiple lights and 1 databank but not required.  
+
+Attach to pressure tile, button, switch, or zone detector for easy activation.  
 
 **The Parameters:**  
 Sale Header: Item name  
