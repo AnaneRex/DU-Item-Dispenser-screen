@@ -1,11 +1,12 @@
 # DU-Item-Dispenser-screen
 Screen for MyDU Item Dispensers  
 
-Link a screen to the programming board and continue.  
+Link a container and screen to the programming board and continue.  
 Can also attach lights as well, will turn green if it contains items or red if empty.  
 
 **Requirements**  
 1 Programming Board  
+1 Container/hub
 At least 1 screen  
 Can add multiple lights and 1 databank but not required.  
 
