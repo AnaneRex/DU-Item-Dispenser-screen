@@ -9,7 +9,7 @@ Programming Board
 At leats one screen
 Can add lights and databank
 
-**The Parameter**  
+**The Parameters:**  
 Sale Header: Item name  
 Sale Valume: How many items you want to sell in one batch. If 1, text will show Each, otherwise it will show Per ## that was specified.  
 Tier: Tier of item, 1-5. This will adjust the text color of the Sale header as well as the craft section.  
