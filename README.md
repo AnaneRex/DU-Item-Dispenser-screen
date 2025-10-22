@@ -9,7 +9,7 @@ Sale Header: Item name
 Sale Valume: How many items you want to sell in one batch. If 1, text will show Each, otherwise it will show Per ## that was specified.
 Tier: Tier of item, 1-5. This will adjust the text color of the Sale header as well as the craft section.
 
-Tired of people asking how many you can produce or how long it takes? Add information into the craft section, otherwise just put 0s
+Tired of people asking how many you can produce or how long it takes? Add information into the craft section, otherwise just put 0s.
 
 numberOfLines: Number of Production lines you are running for this item.
 craftDays: Number of days in 1 production line(if 0 it will not Days)
